@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/covid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/first_week" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/kaglle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/PriceAction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/PriceAction/coingecko" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/Speedtest.py" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/PriceAction/yfinance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/Udemy_Course" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Daniel/src/Udemy_Course/Seccion1" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

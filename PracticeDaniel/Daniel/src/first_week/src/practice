@@ -1,0 +1,26 @@
+Inputname = input("Whats your name?")
+print(type(Inputname))
+print ("Welcome ", Inputname)
+Inputaddress = input("Where do you live?")
+Inputage = input("How Old are you?")
+# while True:
+#         try:
+#             AgeNumber = int(Inputage)
+#             print("this is a valid age")
+#             break
+#         except:
+#             Validage = input(print("Please write a valid age"))
+#             break
+
+Diccionariodatos = {
+    'Name': Inputname,
+    'Address': Inputaddress,
+    'Age': Inputage
+}
+
+filename = "SavedInfo_"+Inputname+".txt"
+text_file = open(filename, "w")
+text_file.write(Diccionariodatos['Name']+" "+Diccionariodatos["Address"]+" "+Diccionariodatos["Age"])
+text_file.close()
+print("Text file created "+filename)
+
